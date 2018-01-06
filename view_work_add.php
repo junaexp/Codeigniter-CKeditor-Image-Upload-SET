@@ -1,5 +1,4 @@
 <?php echo form_open_multipart('[YOUR PATH]', array('autocomplete'=>"off"));?>
-<?php set_csrf(); ?>
 <section style="padding: 5px;">
 	<div>
 		<label>본문</label>
