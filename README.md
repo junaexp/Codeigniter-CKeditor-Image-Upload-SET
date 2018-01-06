@@ -15,3 +15,5 @@ added plug-in list (ckeditor/plugins)
 - image2
 - uploadwidget
 - uploadimage
+
+!!! Must be checked plz (ckeditor/config.js)
