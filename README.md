@@ -1,5 +1,9 @@
 # Codeigniter-CKeditor-Image-Upload-SET
-CKEditor 4.8 :: Form Upload &amp; Drag Drop(browser or Clipboard) Upload
+
+CKEditor 4.8
+- codesnippet edit & view(prism)
+- Form Upload 
+- Drag Drop(browser or Clipboard) Upload
 
 ------------------------------
 controllers : controllers_Ck_upload.php \
